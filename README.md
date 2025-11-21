@@ -34,13 +34,6 @@ Craftly is a **web app that generates responsive, modern, and animated UI compon
 
 ---
 
-## 📂 Demo
-
-**Live Site:** [View Live on Netlify](https://craftly-ai.netlify.app/)  
-**GitHub Repository:** [View on GitHub](https://github.com/itsaditya0108/craftly-ai)
-
----
-
 ## 🌟 Screenshots
 Dark Mode:
  <img width="1893" height="896" alt="image" src="https://github.com/user-attachments/assets/dc1a8e61-1f83-4041-99d9-23a6a810db63" />
